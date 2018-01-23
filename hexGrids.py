@@ -110,6 +110,7 @@ plt.plot(hexMatr['rad'],angleVec,'r.', markersize=3.7)
 plt.figure()
 plt.plot( [ 10 ] * len(angleVec), angleVec,'r.', markersize=3.7)
 
+print("PROCESS FINISHED")
 
 
 plt.show()
